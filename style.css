@@ -1,0 +1,153 @@
+.sidebar nav ol
+{
+    list-style:none;
+    padding-left:0px;
+    font-size: 50px;
+/* background-color: aqua;*/
+    padding: 15px;
+    margin: 0px;
+
+}
+
+.sidebar nav ol li{
+    padding: 20px;
+    font-size: 20px;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.main{
+   /* background-color:blue;*/
+    margin: 0px; 
+height: 366px;
+    width: 1000px;
+    display:flex ;
+}
+
+
+.nav{
+    height: 300px;
+}
+.name1{
+    font-size: 30px;
+}
+.introduction{
+    padding-top: 150px;
+margin-bottom: 0px;
+    padding-left: 100px;
+    padding-bottom: 0px;
+    width: 1000px;
+    font-size: 20px;
+    
+}
+.name{
+    padding-left: 5px;
+}
+.info{
+    padding: 5px;
+}
+.sidebar{
+    height: 333px;
+    width: 260px;
+    padding-left: 0px;
+   
+}
+.sidebar nav ol a{
+    text-decoration: none;
+}
+.photo{
+    padding-right: 23pxpx;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-left: 0px;
+    width: 34px;
+    padding-right: 300px;
+    padding-top:0 px;
+}
+
+.contactme1{
+    font-size:21px;
+    padding: 15px;
+}
+.emailid {
+    padding: 8px;
+}
+.insta{
+    padding: 8px;
+}
+.phonenumber{
+    padding: 8px;
+}
+.contactfull{
+    display: flex;
+}
+
+.coursesfull{
+    display: flex;
+}
+.courseheading{
+    font-size: 60px;
+    padding-left: 300px;
+}
+.maincourses{
+    width: 970px;
+}
+.fullname{
+    padding-bottom: 28px;
+    padding-left: 300px;
+}
+
+.emailaddress{
+    padding-bottom: 28px;
+    padding-left: 300px;
+}
+
+.phonenumber1{
+    padding-bottom:28px;
+    padding-left: 300px;
+}
+.password{
+    padding-bottom: 28px;
+    padding-left: 300px;
+}
+
+.button{
+    padding-left: 300px;
+}
+
+.registerfull h1{
+    text-align: center;
+    padding-left: 300px;
+}
+
+.skills{
+    flex-direction:row;
+}
+.skilldiv{
+    flex-direction: column;
+}
+.fullregister{
+    display: flex;
+}
+.fullintro{
+    display: flex;
+    font-size: 20px;
+    padding-left: 34px;
+}
+.skilldiv{
+    padding-left: 300px;
+    padding-top: 0px;
+
+ display: flex;
+    font-size: 20px;
+}
+
+.skills li{
+    padding: 7px;
+}
+.fullindex{
+    display: flex;
+}
+.maincontact h1{
+    padding-left: 23px;
+}
